@@ -1,0 +1,9 @@
+## Usage
+
+python cyberphantom.py -e "FakeSSID" -i wlan0mon -c 5
+
+## Note
+
+Before running CyberPhantom, ensure that your wireless interface (`wlan0mon`) is in monitor mode. If it's not, you can set it to monitor mode using the following commands:
+
+sudo airmon-ng start wlan0

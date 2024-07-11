@@ -1,0 +1,15 @@
+Clone the repository:
+
+git clone https://github.com/savashxpert/cyberphantom.git
+
+
+Change into the directory:
+
+
+cd cyberphantom
+
+
+Run the script:
+
+
+python cyberphantom.py -e "FakeSSID" -i wlan0mon -c 5
