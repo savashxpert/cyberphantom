@@ -1,0 +1,3 @@
+-e, --essid: SSID of the fake access points.
+-i, --interface: Wireless interface to use.
+-c, --count: Number of fake access points to create.
